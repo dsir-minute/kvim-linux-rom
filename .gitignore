@@ -1,0 +1,18 @@
+# dirties
+*.dirty
+
+# tilds
+*~
+
+# Logs
+*.log
+
+#kernels
+kernel
+linux-kernel
+
+#u-boot
+u-boot
+
+#ubuntu tgz
+ubuntu-base/*tgz
